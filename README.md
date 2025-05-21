@@ -25,3 +25,4 @@ Data is stored in a binary file `students.dat`.
 1. Open a terminal or IDE.
 2. Compile using: `g++ main.cpp -o student_app`
 3. Run using: `./student_app`
+this for student record 
